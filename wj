@@ -1,0 +1,494 @@
+第 12 卷 第 20 期
+2021 年 10 月
+ 
+
+食 品 安 全 质 量 检 测 学 报
+Journal of Food Safety and Quality
+ 
+
+Vol. 12 No. 20 Oct. , 2021
+ 
+ 
+
+
+
+竞争抑制酶联免疫吸附法快速检测金黄色 葡萄球菌肠毒素 P
+崔梦含 1,2 ,  李响响 1,2 ,  赵燕英 2,3 ,  刘  骥 1,2,  朱成林 1 ,  陈  娟 1,2,  唐俊妮 1,2*
+(1.  西南民族大学食品科学与技术学院,  成都  610041; 2.  西南民族大学青藏高原动物遗传资源保护与利用教育部重点
+实验室,  成都  610041; 3.  西南民族大学畜牧兽医学院,  成都  610041)
+
+摘  要:  目的  建立竞争抑制酶联免疫吸附法(enzyme linked immunosorbent assay, ELISA)快速检测金黄色葡 萄球菌肠毒素 P (staphylococcal enterotoxin P, SEP)的分析方法。方法  根据 ELISA 的检测程序,  利用交叉方阵 滴定法确定 SEP 抗原的最佳包被浓度及单克隆抗体的最佳倍比稀释浓度,  再对辣根过氧化物酶标记的羊抗鼠 IgG (HRP-IgG)最佳稀释浓度及最佳反应时间进行筛选,  然后通过测定 450 nm处不同 SEP 抗原包被条件(包被 液类型、包被环境)、封闭液类型及浓度、封闭时间、竞争反应温度、反应方式(预混反应、直接反应)下的 OD 值对检测条件进行优化,  最后用灵敏度、批内变异、批间变异和加标样品回收率对方法进行评价。 结果  SEP 抗原最佳包被浓度为 2.500 μg/mL,  鼠单抗血清稀释度 1:6000 ( V:V),  酶标抗稀释度 1:3000 ( V:V);  反应 1 h,  最 佳包被条件为磷酸盐缓冲液 4  ℃过夜,  10%脱脂乳封闭 2  h,  37  ℃直接竞争反应。此方法的线性回归方程为: Y=0.4166X-0.7415 (r²=0.9908),  灵敏度为 0.954 μg/mL,  批内及批间变异系数均低于 3%,  对人工污染的脱脂牛 奶、 LB (Luria-Bertani)液体培养基中肠毒素蛋白 SEP 的回收率高于 98% 。结论  该方法具有较好的回收率和 稳定性,  可应用于肠毒素蛋白 SEP 的快速检测。
+关键词:  单克隆抗体;  酶联免疫吸附法;  金黄色葡萄球菌;  金黄色葡萄球菌肠毒素 P
+DOI:10. 19812/j.cnki.jfsq11-5956/ts.2021.20.050
+Rapid determination for establishment of competitive inhibition enzyme linked immunosorbent assay for staphylococcal enterotoxin P
+CUI Meng-Han1,2 , LI Xiang-Xiang1,2 , ZHAO Yan-Ying2,3 , LIU Ji1,2, ZHU Cheng-Lin1, CHEN Juan1,2, TANG Jun-Ni1,2*
+(1. College of Food Sciences and Technology, Southwest Minzu University, Chengdu 610041, China; 2. Key Laboratory of Qinghai-Tibetan Plateau, Animal Genetic Resource Reservation and Utilization of Ministry of Education, Southwest
+Minzu University, Chengdu 610041, China; 3. College of Animal & Veterinary Science, Southwest Minzu
+University, Chengdu 610041, China)
+ABSTRACT: Objective    To establish a method for the rapid determination of staphylococcal enterotoxin P (SEP)
+
+
+基金项目:  国家十三五重点研发项目(2018YFD0500500)、四川省科技计划项目(2019YJ0261)、四川省杰出青年基金项目(2019JDJQ0017)、 西南民族大学中央高校基本科研业务费专项项目(2020NTD04)
+Fund: Supported by the National Key Research and Development Program of China in the 13th Five Year Plan (2018YFD0500500), the Applied Basic Research Programs of Sichuan Province (2019YJ0261), the Sichuan Province Science Funds for Distinguished Young Scholar (2019JDJQ0017), and the Fundamental Research Funds for the Central Universities Southwest Minzu University (2020NTD04)                                                                       *通信作者:  唐俊妮,  博士,  教授,  主要研究方向为食品安全与食品微生物。 E-mail: junneytang@aliyun.com                                                            *Corresponding  author:  TANG  Jun-Ni, Ph.D, Professor,  Southwest Minzu University, No. 16,  South  Section  4, First Ring  Road,  Chengdu 610041, China. E-mail: junneytang@aliyun.com
+
+ 
+ 
+
+by  competitive  inhibition  enzyme  linked  immunosorbent  assay  (ELISA).  Method    According  to  the  detection procedure of ELISA, the optimal coating concentration of SEP antigen and the optimal dilution concentration of monoclonal  antibody  were  determined by  cross-square titration  method.  The  optimal  dilution  concentration  and optimal reaction time of goat anti-mouse IgG (HRP-IgG) labeled with horseradish peroxidase were screened. Further, the  detection  conditions  by  measuring  the  absorbance  under  different  SEP  antigen  coating  conditions  (coating solution type, coating environment), blocking solution type and concentration, blocking time, competitive reaction temperature, and reaction mode (premix reaction, direct reaction) at 450 nm were optimized. Finally, the method was evaluated by sensitivity, intra-assay variation, inter-assay variation, and recovery of spiked samples. Results    The best coating concentration of SEP antigen was 2.500 μg/mL, and anti-SEP monoclonal antibody was 1:6000 ( V:V). The best dilution of enzyme-labeled antibody was  1:3000 ( V:V), and the reaction time was  1 h. The best coating conditions were phosphate buffer solution 4 ℃ overnight, and the blocking conditions were  10% degreasing 2 h, 37 ℃ direct competition reaction. The linear regression equation of this method was Y=0.4166X-0.7415 (r²=0.9908), which sensitivity was 0.954 μg/mL. The intra-assay and inter-assay coefficients of variation were less than 3%. The recoveries  of enterotoxin  protein  SEP  in  artificially  contaminated  skimmed  milk  and  LB  (Luria-Bertani)  liquid medium were higher than 98%. Conclusion    The method has good recovery and stability, and can be applied to the rapid detection of enterotoxin protein SEP.
+KEY WORDS: monoclonal antibody; enzyme linked immunosorbent assay; Staphylococcus aureus; staphylococcal enterotoxin P
+
+
+ 
+0    引  言
+金黄色葡萄球菌是重要的食源性致病菌,  有些菌株 能 分泌多种毒 素 ,  如肠 毒素/ 类肠 毒素 (staphylococcal enterotoxins/staphylococcal enterotoxins-like, SEs/SEls)、剥 脱毒素、 中毒性休克毒素(toxic  shock  syndrome  toxin, TSST- 1)等,  被称为产毒素菌株[1‒4]。
+葡萄球菌肠毒素/类肠毒素是一类低分子量蛋白,  其分 子量约在 26.9~29.6 kDa 之间[5‒6]。它是一类具有超抗原(super antigen, SAg)活性的胞外蛋白, 在极低剂量条件下可刺激T 细 胞在 T 细胞抗原受体上增殖, 并能明显增强 T 细胞活性[7‒8]。 葡萄球菌肠毒素对变性条件(如加热处理、可破坏金黄色葡萄 球菌的低 pH 值等)高度耐受,  当进入人体消化道后, 对人体 的胃肠道蛋白酶(如胰蛋白酶、胃蛋白酶、木瓜蛋白酶和凝乳 酶)同样具有抗性,  因此在消化道中具有较强活性,  并能够引 发食物中毒症状(如恶心、腹痛有时伴有腹泻、呕吐、肠胃炎 甚至休克等)的出现[9‒ 10] 。葡萄球菌肠毒素被认为是金黄色葡 萄球菌引发的食物中毒事件的主要原因[11‒ 12],  可使人和动物 患病, 对公共卫生具有一定的影响。
+目前, 共有 24 种不同的金黄色葡萄球菌肠毒素被发现,  按照英文字母根据发现时间的先后顺序进行区分和排序,  将 这些肠毒素命名为 SEA~SElY, 其中 SEA、SEB、SEC、SED、 SEE 被称为传统肠毒素, SEG~SElY 被称为新型肠毒素。
+金 黄 色 葡 萄 球 菌 新 型 肠 毒 素 P   (staphylococcal enterotoxin  P,  SEP)基因(sep)最初在耐甲氧西林金黄色葡萄 球菌 N315 菌株全基因组测序后被鉴定出来, sep 基因有 729
+ 
+
+个核苷酸序列,  编码肠毒素蛋白 SEP 的 286 个氨基酸残基, 分子量约为 27.89  kDa[13‒ 14],  其编码 sep  的基因由噬菌体 (φN315、φMu3A)携带[15]。2005 年, OMOE 等[16]研究发现,  新 型肠毒素SElP 是一种超抗原, 0.01 ng/mL 或更高浓度的肠毒 素 SElP 能够诱导人体 T 细胞产生显著的增殖反应和细胞因 子白细胞介素-2 、γ 干扰素、肿瘤坏死因子 α 和白细胞介素 -4 的增加。 SHI 等[17]从 39 个城市的零售蔬菜样本中检测出 sep 基因,  检出率高达 70.0%。HAIT 等[18]从葡萄球菌食物中 毒事件中分离出 85 株金黄色葡萄球菌,  其中 4.7%  (4/85)只 携带了新型肠毒素基因,  包括新型肠毒素基因 sep。
+目前对金黄色葡萄球菌新型肠毒素 SEP  的检测方法 有聚合酶链式反应(polymerase chain reaction, PCR)检测方 法[19]和杜玄等[20]建立的双抗夹心酶联免疫吸附法。PCR 检 测方法只针对 sep 基因进行检测,  不能对肠毒素蛋白进行 定量检测,  而双抗夹心酶联免疫方法需要同时制备抗 SEP 单克隆抗体和抗 SEP  多克隆抗体 2 种抗体,  实验成本高, 且检测方法的灵敏度和特异性同时受 2 种抗体特异性的影 响。因此本研究建立了竞争抑制 ELISA 方法检测 SEP,  对 方法的特异性、灵敏度、重复稳定性等方面进行评价,  并 对其在人工污染样品中的回收率进行检测,  以期实现对新 型肠毒素 SEP 的定量检测,  为金黄色葡萄球菌新型肠毒素 P 的快速定量诊断提供技术支持。
+1    材料与方法
+1.1    试  剂
+金黄色葡萄球菌肠毒素 P (SEP)蛋白、抗 SEP 单克隆
+ 
+
+
+ 
+抗体(2.3  mg/mL)(西南民族大学微生物实验室自制);  辣根 过氧化物酶标记的羊抗兔 IgG (HRP-IgG,  北京博奥森生物 技 术 有 限 公 司 );   可 溶 型 单 组 分 四 甲 基 联 苯 胺 (tetramethylbenzidine,  TMB)[天根生化科技(北京)有限公 司]; Tween-20[生工生化工程(上海)股份有限公司];  脱脂奶 粉(英国 Oxoid 公司)。
+含有 Tween-20   的洗 涤缓冲 液 (phosphate  buffered solution, PBST):  将 250 μL Tween-20 加入到适量磷酸盐缓 冲溶液(phosphate  buffered  solution,  PBS)中,  混合均匀后, 定容至 500 mL,  现配现用。
+碳酸盐包被缓冲液:  将 0.795 g 碳酸钠与 1.465 g 碳酸 氢钠溶于适量蒸馏水中,  调节 pH  至 9.6,  蒸馏水定容至 500 mL。
+5% 、10%脱脂乳 PBS:  将 0.3  g/0.6  g 脱脂乳粉加入 6 mL PBS 中,  混合均匀,  现用现配。
+终止液(2 moL/L 硫酸溶液):  将 20 μL 浓硫酸(分析纯) 缓慢加至适量的蒸馏水中 ,  待恢复至室温后定容至 200 mL,  置于常温环境下保存。
+1.2    仪器与设备
+ELX-808 酶标仪(美国 Bio-Tek 公司);  96 孔聚苯乙烯 酶标板(美国 Corning 公司); HZQ-F160 全温振荡培养箱(江 苏太仓培英实验设备有限公司);  PL303  电子天平[梅特勒- 托利多仪器(上海)有限公司]。
+1.3    方  法
+1.3.1    抗 SEP 单克隆抗体竞争抑制 ELISA 方法的建立及
+评价
+(1)ELISA 基本检测流程
+①抗原包被:  将抗原 SEP 用 PBS 稀释至适当浓度后, 以 100 μL/孔加至酶标板内,  静置包被。
+②洗涤:  酶标板取出后平衡至室温,  弃各孔包被液并 倒扣在干燥滤纸上至干。在各酶标板孔内加入 200  μL PBST,  静置 3 min 后弃去 PBST,  重复操作 2~3 次。
+③封闭:  取200 μL 封闭液加至酶标板孔内,  恒温培养 (37  ℃)封闭适当时间,  弃去各孔内封闭液。洗涤操作步骤 同②。
+④抗原抗体竞争反应:  将抗 SEP  单克隆抗体用 PBS 倍比稀释至适当浓度后以 50  μL:50  μL 的比例与待检测样 品或阳性蛋白样品混合,  用稀释缓冲液代替抗体作为对照, 加入到酶标板孔内,  每个浓度设 3 个复孔,  恒温培养(37 ℃) 适当时间;  弃去各孔内液体,  洗涤操作步骤同②。
+⑤添加辣根过氧化物酶标记的羊抗鼠IgG (HRP-IgG): 将羊抗鼠 HRP-IgG 酶标抗体用 PBS 缓冲液稀释至适当浓 度,  以 100 μL/孔加至酶标板内, 37 ℃恒温培养适当时间。
+⑥洗涤酶标抗体:  弃各孔内稀释液,  加入 200  μL/孔 的 PBST,  静置 3 min 后倒出洗涤缓冲液,  在滤纸上扣干至
+ 
+
+无液体流出;  重复操作 4~5 次。
+⑦显色反应:  取 100 μL 可溶性单组分 TMB 底物溶液 加至酶标板孔内,  恒温培养箱(37 ℃)中避光显色 15 min;
+⑧终止显色反应:  各酶标孔内加入 100 μL 的 2 moL/L 硫酸终止溶液,  终止显色反应。 在波长 450 nm条件下测定 各孔的吸光值(OD450 nm)。
+分别以 An、A0 值表示各阳性(或检测孔)和各阴性孔的 OD450 nm 值;  计算未抑制率 I0=An/A0,  抑制率 In=1-I0。
+(2)最佳包被抗原工作浓度及单克隆抗体最佳倍比稀 释浓度的选择
+按照 1.3. 1(1)的检测流程,  对用 PBS 稀释的抗原 SEP  浓度(10.000 、7.500 、5.000 、2.500 、1.250 、0.625 μg/mL)、 用 PBS 缓冲液稀释抗 SEP 单克隆抗体的稀释倍比(1:500 、 1:1000 、1:2000 、1:4000 、1:6000) ( V:V)、用 PBS 稀释羊抗 鼠 IgG-HRP 酶标抗体至 1:3000  ( V:V)进行检测。利用交叉 方阵滴定法,  筛选包被抗原的最佳稀释浓度和抗 SEP 鼠单 抗血清(单克隆抗体)的最佳稀释度。每组设置 2~3 个复孔,  用加入抗 SEP 鼠单抗血清的孔作为阳性孔,  用 PBS 缓冲液 代替抗 SEP 鼠单抗血清的孔作为阴性对照孔,  选取阳性孔 OD450  nm   的平均值最接近于 1.0  及对应阴性对照孔的 OD450  nm 值小于 0.1  的组合作为抗原包被的最佳工作浓度 和抗 SEP 鼠单抗血清的最佳稀释度[21‒22]。
+(3)酶标抗体最佳稀释浓度及最佳反应时间的确定
+根据 1.3. 1(2)中确定的包被抗原最佳工作浓度和鼠单 抗血清稀释度,  对辣根过氧化物酶标记 的羊抗鼠 IgG  (HRP-IgG)最佳稀释浓度及最佳反应时间进行筛选。用 PBS  稀释缓冲液将酶标抗体稀释为 1:2000 、1:3000 、1:4000 、 1:5000 和 1:6000 ( V:V),  反应时间分别设定为 30 、40 、50、 60 min,  检测步骤同 1.3. 1(1)一致。酶标抗体最佳稀释浓度 及最佳反应时间为阳性孔 OD450  nm 平均值最接近于 1.0 以 及相应空白孔 OD450 nm 值小于 0.1 的组合。
+(4)抗原最佳检测条件的确定
+根据已确定的包被抗原、单克隆抗体及辣根过氧化物 酶标记的羊抗鼠IgG (HRP-IgG)的最佳条件,  按照 1.3. 1(1)的 检测流程,  对 SEP 抗原包被条件(包被液类型:  碳酸盐包被 缓冲液与磷酸盐包被缓冲液;  包被环境:  4  ℃包被过夜与 37 ℃包被 1、2、3 h)、封闭液类型及封闭液浓度(5%脱脂乳、 10%脱脂乳、 1%牛血清白蛋白、2%  牛血清白蛋白)(bovine  albumin, BSA)、封闭时间(30、60、90 、120 min)、竞争反应 温度(25、37 ℃)、反应方式(预混反应:  待测抗原与鼠单抗血 清等体积混合反应 30  min,  再转移至酶标板孔内与包被抗 原反应 1  h;  直接反应:  待测抗原与鼠单抗血清直接加至酶 标板孔内等体积混合,  与包被抗原反应 1.5  h)进行筛选,  抑 制率最大时所对应的条件组合作为最佳检测条件。
+(5)抗 SEP 单克隆抗体竞争抑制 ELISA 方法标准曲线 的建立
+用 稀 释 缓冲液将竞 争抗原 (SEP  纯化蛋 白 ) 按照
+ 
+
+
+ 
+ 
+
+
+ 
+0. 117~15.000  μg/mL 稀释成 8 个浓度梯度,  以稀释缓冲液 代替竞争抗原作为对照,  检测步骤同 1.3. 1(1)一致。以单位 换算为 ng/mL 后竞争抗原质量浓度的常用对数(lg  CSEP)为 横坐标,  以各竞争浓度对应的抑制率(In)百分数为纵坐标, 绘制标准曲线。
+1.3.2    方法学评价与应用
+(1)准确性检测
+参考王琼等[23] 的方法提取菌株 DNA,  设计肠毒素sep 的特异性引物,  详见表 1, PCR 扩增反应体系和反应条件等 均参照王琼等[23] 的方法。利用已建立的 ELISA 方法对菌株 培养上清液进行肠毒素 SEP 的检测。
+(2)特异性与灵敏度评价
+利用已建立的竞争抑制 ELISA 方法分别对金黄色葡 萄球菌肠毒素 SEM、SEK、SEU 阳性蛋白样品作为竞争抗 原,  观察是否存在交叉反应,  以 PBS 代替竞争抗原的孔作 为阴性对照孔,  计算抑制率 In,  并以 In=50%为灵敏度, In=15%为最低检测限作为判定标准[21]。
+(3)精密度检测
+同 1.3. 1(1)方法一致,  利用上述实验中已建立的单克隆 抗体竞争抑制 ELISA 方法分别对质量浓度为 8、6、4 μg/mL 的 SEP  纯化蛋白作为竞争抗原进行检测,  每个浓度设置 5 个重复,  批内变异度的检测,  即使用酶标仪将阳性对照组、 阴性对照组的各复孔同时检测 OD450 nm 值;  批间变异度的检 测,  即将上述标本做 5 组,  检测各孔的 OD450 nm 值。计算各
+ 
+
+质量浓度竞争抗原重复孔所得 OD450 nm 的平均值( x )和标准 偏 差 (standard   deviation,   SD),   计 算 变 异 系 数 CV(%) =(SD/ x )×100%。以批内、批间变异系数分别表示批内及批 间误差[24]。
+(4)人工污染样品中肠毒素 SEP 的回收率检测
+用灭菌牛奶和灭菌 LB 肉汤将 SEP 蛋白纯品分别稀释 至不同质量浓度,  分次以4 ℃、12000 r/min 离心 15~20 min, 取乳脂层下的中层清液作为检测样品,  与鼠单抗血清以 50 μL:50 μL 的比例混合,  以不添加竞争抗原的牛奶样品和 LB 样品作为阴性对照,  利用已建立的竞争抑制 ELISA 方 法,  检测人工污染样品中肠毒素 SEP 的含量,  计算样品的 回收率(%)=测量浓度/实际浓度×100%。
+1.3.3    统计学分析
+本实验数据使用 Excel 、SPSS 20.0 软件进行处理。
+2    结果与分析
+2.1    抗原包被最佳工作浓度及单克隆抗体最佳倍比 稀释度的确定
+通过采用交叉方阵滴定法, 对抗原SEP 的最佳包被浓度 和抗 SEP 单克隆抗体的最佳稀释度进行筛选,  实验结果如表 2 所示,  当 SEP 抗原包被浓度和抗 SEP 单克隆抗体稀释度分 别为 2.500  μg/mL  和 1:6000  ( V:V)时,  测得 OD450  nm  值为 1.001±0.010, 与 1.0 的差值最小。故确定 2.500 μg/mL 为抗原的 最佳包被浓度, 1:6000 (V:V)为单克隆抗体的最佳倍比稀释度。
+ 
+
+表 1    用于 PCR 扩增 sep 特异性引物序列
+Table 1    sep specific primer sequences for PCR amplification
+
+引物名称	引物序列(5´-3´)	PCR 扩增产物长度/bp
+sep-F
+sep-R	ATCATAACCAACCGAATCACCAGAAGAAGGGTGAAACTC
+GTCTGAATTGCAGGGAACTGCTTTAAGCAATCTTAG	547
+
+表 2    不同包被抗原浓度及鼠单抗血清倍比稀释度组合的 OD450 nm
+Table 2    OD450 nm  of combination of different coating antigen concentrations and doubling dilution of mouse single antibody serum
+
+抗 SEP 鼠单抗血清
+稀释度(V:V)	组别	包被抗原浓度/(μg/mL)
+		10.000	7.500	5.000	2.500*	1.250	0.625
+1:500	阳性
+空白	1.441±0.020
+0.053	1.449±0.006
+0.041	1.395±0.004
+0.045	1.339±0.002
+0.036	1.300±0.010
+0.032	1.100±0.026
+0.039
+1:1000	阳性
+空白	1.418±0.007
+0.051	1.349±0.003
+0.048	1.341±0.041
+0.047	1.278±0.010
+0.045	1.244±0.005
+0.048	1.103±0.005
+0.048
+1:2000	阳性
+空白	1.291±0.006
+0.052	1.272±0.022
+0.051	1.228±0.012
+0.053	1. 186±0.011
+0.048	1. 138±0.007
+0.048	1.007±0.019
+0.038
+1:4000	阳性
+空白	1. 150±0.001
+0.052	1. 177±0.015
+0.049	1. 142±0.025
+0.049	1. 106±0.008
+0.048	1.042±0.006
+0.039	0.917±0.035
+0.049
+1:6000*	阳性
+空白	1. 119±0.008
+0.048	1.084±0.004
+0.042	1.063±0.032
+0.052	1.001±0.010*
+0.055	0.964±0.013
+0.051	0.822±0.006
+0.054
+1:8000	阳性
+空白	1.080±0.004
+0.047	1.044±0.001
+0.051	1.025±0.007
+0.037	0.988±0.014
+0.056	0.919±0.005
+0.048	0.797±0.008
+0.049
+注: *为最佳包被浓度条件和最佳倍比稀释度。
+
+
+ 
+ 
+
+
+ 
+2.2    酶标抗体最佳稀释度及反应时间
+根据以确定的 2.5  μg/mL  抗原 SEP  包被浓度以及 1:6000  ( V:V)鼠单抗血清倍比稀释度,  对羊抗鼠 IgG-HRP 酶标抗体的最佳稀释度及最佳反应时间进行筛选,  结果如 表 3 所示,  当羊抗鼠 IgG-HRP 酶标抗体的稀释度为 1:3000 ( V:V)、反应时间为 1 h 时测得的阳性孔的 OD450 nm 值的平 均值 为 1.037±0.001,  最接近于 1.0,  并且相应 空白孔 OD450 nm 值为 0.049 小于 0.1。故确定 1:3000 ( V:V)为酶标抗 体最佳稀释度、 1 h 为最佳反应时间。
+2.3    抗原最佳包被条件的确定
+根据以上实验已经确定的抗原包被浓度、抗体稀释度 的最佳条件,  进一步检测包被液类型以及包被环境,  结果 如表 4 所示,  当包被液类型选择 PBS、包被环境为 4  ℃条 件下过夜包被时,  抑制率 In 的值最大,  为 40.68%,  因此确
+ 
+
+定为抗原的最佳包被条件。
+2.4    最佳封闭条件的确定
+根据上述实验确定的最佳条件,  对最佳封闭液类型 及封闭环境进行确定,  实验结果如表 5  所示,  当封闭液类 型为脱脂乳时,  其阴性孔的 OD450 nm 值均接近于 1.0,  且抑 制率普遍高于 20%。当脱脂乳质量浓度为 10%,  且封闭时 间为 120  min 时,  抑制率 In 的值最大为 57.67%,  因此确定 为最佳封闭条件。
+2.5    最佳竞争反应条件的确定
+基于以上各优化后条件,  对抗原抗体竞争反应的条 件进行优化,  其结果如表 6 所示。由表 6 可知,  直接反应 的阴性对照孔的 OD450  nm 值比预混反应的普遍偏大,  且与 1.0 接近,  同时在竞争反应温度为 37  ℃时,  竞争抑制率最 大,  说明 37 ℃温度下的直接竞争反应方式最佳。
+ 
+
+表 3    不同 IgG-HRP 稀释度及反应时间组合的 OD450 nm
+Table 3    OD450 nm  for different IgG-HRP dilutions and reaction time combinations
+
+酶标抗体稀释度(V:V)	
+组别	酶标抗体反应时间/min
+		30                                   40                                     50	60*
+
+1:2000	阳性
+空白	1.091±0.014
+0.048	0.951±0.008
+0.048	1. 132±0.023
+0.048	1.221±0.003
+0.048
+
+1:3000*	阳性
+空白	0.942±0.018
+0.048	0.817±0.021
+0.048	0.937±0.008
+0.049	1.037±0.001*
+0.049
+
+1:4000	阳性
+空白	0.768±0.004
+0.049	0.677±0.032
+0.047	0.718±0.019
+0.050	0.884±0.007
+0.050
+
+1:5000	阳性
+空白	0.728±0.004
+0.051	0.688±0.004
+0.046	0.656±0.024
+0.050	0.813±0.030
+0.048
+
+1:6000	阳性
+空白	0.615±0.006
+0.050	0.525±0.026
+0.470	0.506±0.029
+0.051	0.698±0.003
+0.05
+注: *为最佳稀释度和最佳反应时间。
+
+
+Table 4	
+
+表 4    Inhibition	
+
+不同包被缓冲液及包被方式组合的抑制率
+rates of different coating buffers and coating conditions	
+
+ 
+包被液类型
+ 
+
+包被环境
+4 ℃包被过夜*                                   37 ℃包被 1 h                     37 ℃包被 2 h                     37 ℃包被 3 h
+ 
+
+OD450 nm
+磷酸盐缓冲液*
+抑制率/%
+OD450 nm
+碳酸盐缓冲液
+抑制率/%	1.056±0.007	0.993±0.024	0.872±0.004	0.839±0.030
+	40.68*	25.95	22.32	25.99
+	1.040±0.031	1. 125±0.067	0.881±0.001	0.852±0.008
+	36.11	16.59	21.00	22.31
+注: *为最佳包被条件。
+
+
+ 
+ 
+
+表 5    不同封闭液及封闭时间组合的抑制率
+Table 5    Inhibition rates of different blocking solutions and blocking time
+
+封闭液类型		封闭时间/min
+		30	60	90	120*
+5%脱脂乳
+
+10%脱脂乳*
+
+
+1% BSA
+
+
+2% BSA	OD450 nm	1. 196±0.008	1.094±0.049	1. 14±0.011	0.993±0.020
+	抑制率/%	21.82	25.05	27.99	31.60
+	OD450 nm	1. 123±0.023	1. 121±0.048	1. 148±0.009	1.014±0.011
+	抑制率/%	23.54	20.03	31.49	57.67*
+	OD450 nm	1.200±0.015	1. 166±0.012	1. 119±0.010	1.063±0.028
+	抑制率/%	12.21	10.33	15.02	16.47
+	OD450 nm	1. 128±0.008	1. 124±0.003	1. 111±0.013	1.054±0.033
+	抑制率/%	3.02	7.30	14.08	19.97
+注: *为最佳封闭条件。
+
+
+ 
+表 6    不同竞争温度及竞争反应方式组合的抑制率
+Table 6    Inhibition rates of different competition temperature
+and conditions
+
+竞争反应方式	竞争反应温度/C
+	25	37*
+OD450 nm
+预混反应
+抑制率/%
+OD450 nm
+直接反应*
+抑制率/%	0.896±0.003	0.812±0.011
+	29.46	34.98
+	0.948±0.013	1.065±0.039
+	43.30	63.90*
+注: *为最佳竞争反应方式。
+
+2.6    竞争抑制 ELISA 方法标准曲线的绘制
+按照以上筛选的检测流程中的最佳条件,  用稀释缓 冲液将竞争抗原(SEP 纯化蛋白)按照 0.117 、0.234 、0.468、 0.937 、1.875 、3.750 、7.500 、15.000 μg/mL 稀释成 8 个浓 度梯度,  以稀释缓冲液代替竞争抗原作为对照,  进行检测 并 建 立 标 准 曲 线 ,   进 行 回 归 分 析 后 得 到 方 程 :  Y=0.4166X-0.7415 (r²=0.9908),  线性关系良好。
+2.7    竞争抑制 ELISA 方法准确性评价
+对实验室已保存的 21  株金黄色葡萄球菌进行培养, 利用已建立的抗 SEP 单克隆抗体竞争抑制 ELISA 方法对 其上清液中的肠毒素 SEP 进行检测,  检测结果表明编号为 82 、122 、129 、130 的菌株培养上清液中肠毒素 SEP 检测 结果为阳性。如图 1 所示,  这与 PCR 检测结果一致。
+2.8    方法特异性与灵敏度评价
+利用已建立的 ELISA 方法分别对金黄色葡萄球菌肠毒 素 SEM 、SEK 和 SEU 蛋白样品作为竞争抗原进行测定,  结 果如表 7 所示,  检测结果表明 SEK、SEU 和 SEM 竞争抑制 率 In 均在 2.0%以下,  表明与肠毒素 SEP 不存在交叉反应。
+ 
+
+
+利用线性回归方程计算得知,  该方法的检测灵敏度为 0.954   μg/mL   (In=50%),   最 低 检 测 限 为 0.138   μg/mL (In=15%)。
+ 
+注: 4 、10 、12 、16 号泳道分别为 82 、122 、129 、130 号菌体的培 养液上清; 22 号泳道为 sep 基因阴性对照。
+图 1     阳性菌株 PCR 鉴定
+Fig. 1    PCR identification of positive strains
+表 7    特异性实验结果
+Table 7    Specific experiment results
+抑制率/%
+
+1.063
+1.053
+1.051
+1.069
+注: -代表无抑制率。
+
+2.9    精密度和稳定性实验
+运用已建立的 ELISA 方法来检测含 SEP 蛋白不同质 量浓度的样品,  其检测结果如表 8  所示,  批内及批间变异 系数均低于 3%,  表明建立的 ELISA 方法具有良好的重复 稳定性。与抗 SEP 多克隆抗体竞争抑制 ELISA 方法相比， 其批间内变异系数和批间变异系数整体较低,  说明该方法 的稳定性更佳。
+
+ 
+
+
+
+ 
+ 
+
+表 8    检测含不同浓度 SEP 的样品变异系数(n=5)
+Table 8    Coefficient of variation of tested samples with different concentrations of SEP (n=5)
+
+样品浓度/(μg/mL)		批内	批间	
+	OD450 nm	标准偏差 SD	变异系数 CV/%	OD450 nm	标准偏差 SD	变异系数 CV/%
+20	0.116	0.0033	2.82	0.116	0.0041	2.53
+10	0.167	0.0043	2.59	0.169	0.0045	2.66
+5	0.245	0.0048	1.94	0.252	0.0052	2.06
+0	1.025	0.0066	0.65	1.023	0.0071	0.69
+
+ 
+2.10    人工污染样品中肠毒素 SEP 的回收率检测
+通过在灭菌的脱脂牛奶、全脂牛奶和 LB 肉汤中加入
+20 、10 、5  μg/mL 的 SEP 蛋白,  采用已建立的检测方法检 测被污染样品中的肠毒素蛋白 SEP 浓度,  并计算其回收率, 实验结果如表 9 所示。如表 9 所示,  经人工污染的脱脂牛 奶和 LB 液体培养基中肠毒素蛋白 SEP 的回收率高于 98% 及以上,  与抗 SEP 多克隆抗体竞争抑制 ELISA 方法相比, 回收率整体较高,  说明该方法在食品基质检测中的灵敏度 优于抗 SEP 多克隆抗体竞争抑制 ELISA 方法的灵敏度。 且样品回收率随着 3 种污染样品中 SEP 蛋白浓度的增加而 增高,  与抗 SEP 多克隆抗体竞争抑制 ELISA 方法的回收率 结果一致。
+表 9    人工污染样品的回收率
+Table 9    Recoveries of artificial contaminated samples
+
+样品	SEP 浓度/(μg/mL)	回收率/%
+	实际浓度	检测浓度	
+
+脱脂牛奶	12
+6
+3
+12	11.902±0.008
+5.897±0.017
+2.992±0.026
+11.43±0.033	99.18
+98.28
+99.73
+95.25
+全脂牛奶	6
+3
+12	5. 108±0.031 2.331±0.045
+11.958±0.012	85.13
+77.70
+99.65
+LB 肉汤	6
+3	5.941±0.034
+2.995±0.051	99.02
+99.83
+
+3    结论与讨论
+本研究利用具有超抗原活性的肠毒素 SEP  蛋白和抗 SEP 单克隆抗体建立了一种能够快速检测葡萄球菌肠毒素 SEP  的 ELISA 方法,  线性回归方程为:  Y=0.4166X‒0.7415 (r²=0.9908)。通过实验对 ELISA 方法的各反应条件进行优 化,  最终确定 SEP 抗原最佳包被浓度及鼠单抗血清最佳稀 释度分别为 2.500  μg/mL  和 1:6000  ( V:V),  磷酸盐缓冲液 4  ℃过夜包被抗原,  酶标抗体以 1:3000  ( V:V)稀释度反应
+ 
+
+1 h, 10%脱脂乳封闭 2 h, 37 ℃直接竞争反应为最佳反应条 件。通过对该方法的批间内变异、批间变异系数和加标样 品的回收率等方面进行评价,  进一步证实建立的方法的灵 敏度较高、重复稳定性良好。可用于金黄色葡萄球菌肠毒 素 P 的定量检测。确定该方法的灵敏度为 0.954  μg/mL 、 最低检测限为 0.138 μg/mL、对人工污染的脱脂牛奶和 LB 液体培养基中肠毒素蛋白 SEP 的回收率均高于 98%,  皆优 于抗 SEP 多克隆抗体竞争抑制 ELISA 方法,  这可能是由于 单克隆抗体和多克隆抗体之间的差异。单克隆抗体是单一 组织对抗原的免疫形成的抗体,  而多克隆抗体则是多组织 对抗原免疫产生的抗体,  这种抗体比较复杂,  在很多情况 下容易出现假阳性结果[19,25]。
+本研究中抗原包被液类型及包被条件、封闭液类型及 封闭时间、酶标抗体反应时间也会对检测结果产生影响。 在本研究中测定最佳抗原包被浓度、单克隆抗体以及辣根 过氧化物酶标记的羊抗兔 IgG  (HRP-IgG)稀释度时,  选择 阳性孔 OD450 nm 平均值最接近于 1.0 的条件组合作为最优, 是因为酶标仪的最佳吸光度值检测范围为 1.0~1.5,  在此范 围内检测的误差相对最小。在对方法的特异性进行评价时, 将实验室保存的肠毒素 M 、K 和 U 进行检测,  经检测发现 肠毒素 M、K 和 U 均不与肠毒素 P 发生交叉反应。另外,  复 杂的食品基质也会对实验结果产生一定的影响,  在人工污 染样品中测回收率的实验中,  在全脂牛奶和脱脂牛奶中,  当 添加 SEP  蛋白的浓度越高时,  加标样品的回收率越好。在 LB 肉汤中,  不同浓度下 SEP 的回收率都较好,  由此说明不 同的食品基质对该方法检测 SEP 蛋白的准确度有一定的影 响,  在之后的研究中需注重食品基质的检测前处理。
+综上所述,  本研究初步建立了检测金黄色葡萄球菌 新型肠毒素 SEP 的单克隆抗体竞争抑制 ELISA 方法,  验证 其有较强的稳定性,  可应用于肠毒素蛋白 SEP 的快速检测, 具有良好的应用前景。
+参考文献
+[1]   YEHIA  HM,  ISMAIL  EA,  HASSAN  ZK,  et  al.  Heat  resistance  and
+presence  of genes  encoding  staphylococcal  enterotoxins  evaluated  by multiplex-PCR of Staphylococcus aureus isolated from pasteurized camel milk [J]. Biosci Rep, 2019, 39: 11.
+[2]   SCALLAN  E,  GRIFFIN  PM,  ANGULO  FJ,  et  al.  Foodborne  illness
+ 
+
+
+ 
+acquired in the United  States-unspecified agents  [J]. Emerg Infect Dis,
+2011, 17(1): 16.
+[3]   PINCHUK IV, BESWICK EJ, REYES VE. Staphylococcal enterotoxins
+[J]. Toxins, 2010, 2(1): 2177‒2197.
+[4]   FISHER   EL,   MICHAEL   O,   CHEUNG   G.   Basis   of  virulence   in
+enterotoxin-mediated staphylococcal food poisoning [J]. Front Microbiol,
+2018, 9: 436.
+[5]   BALABAN N, RASOOLY A. Staphylococcal enterotoxins [J]. Int J Food
+Microbiol, 2000, 61(1): 1- 10.
+[6]   LIU Y, CHEN W, ALI T, et al.  Staphylococcal enterotoxin H induced
+apoptosis of bovine mammary epithelial cells in vitro [J]. Toxins, 2014, 6(12): 3552-3567.
+[7]   唐俊妮,  罗双华,  刘骥,  等.  葡萄球菌新型肠毒素 rSEP  的原核表达与
+纯化研[J].  南民族大学学报(自然科学版), 2018, 44(5): 455-461.             TANG JN, LUO SH, LIU J, et al. Prokaryotic expression and purification of staphylococcal new identified enterotoxin rSEP [J]. J Southwest Minzu Univ (Nat Sci Ed), 2018, 44(5): 455-461.
+[8]   FRIEDMAN M, RASOOLY R. Review  of the  inhibition  of biological
+activities of food-related selected toxins by natural compounds [J]. Toxins,
+2013, 5(4): 743-775.
+[9]   HU DL, NAKANE A. Mechanisms of staphylococcal enterotoxin-induced
+emesis [J]. Eur J Pharmacol, 2014, 722: 95- 107.
+[10]   杨丹茹,  赵燕英,  唐俊妮.  金黄色葡萄球菌肠毒素 SEK  的纯化及
+DAS-ELISA  检测方法的建立与应用[J].  现代食品科技,  2019,  35(3): 225-233.
+YANG DR, ZHAO YY, TANG JN. Prokaryotic expression, purification, development  and  application  of  a  double-antibody  sandwich  enzyme linked immunosorbent assay for staphylococcal enterotoxin K  [J]. Mod Food Sci Technol, 2019, 35(3): 225-233.
+[11]   SCHELIN  J,  WALLIN  CN,  COHN  MT,  et  al.  The  formation  of
+Staphylococcus aureus enterotoxin in food environments and advances in risk assessment [J]. Virulence, 2011, 2(6): 580‒592.
+[12]   ELAHI S, TSUCHIAKA. Characteristics of staphylococcal enterotoxin A
+production and growth of Staphylococcus aureus in shaking and stationary cultures [J]. Biocontrol Sci, 2018, 23(4): 207‒214.
+[13]   GERARD L, BOHACH GA, NAIR SP, et al. Standard nomenclature for
+the  superantigens  expressed by Staphylococcus  [J]. J Infect Dis, 2004,
+189(12): 2334‒2336.
+[14]   KURODA M, OHTA T, UCHIYAMA I, et al. Whole genome sequencing
+of  meticillin-resistant  Staphylococcus  aureus  [J].  Lancet,  2001,  357:
+1225‒ 1240.
+[15]   王琼,  唐俊妮.  金黄色葡萄球菌肠毒素及移动基因元件研究进展[J].
+食品科学, 2016, 37(3): 241‒246.
+WANG  Q, TANG JN. Progress in  staphylococcal  enterotoxins  and the mobile  genetic  elements  encoding  them  [J].  Food  Sci,  2016,  37(3):
+241‒246.
+[16]   OMOE  K,  IMANISHI  K,  HU  DL,  et  al.  Characterization  of  novel
+staphylococcal  enterotoxin-like  toxin  type  P  [J].  Infect  Immun,  2005,
+73(9): 5540‒5546.
+[17]   SHI  W,  HUANG  J,  WU  Q,  et  al.  Prevalence  and  characterization  of
+Staphylococcus aureus isolated from retail vegetables in China [J]. Front Microbiol, 2018, 9: 1263.
+[18]   HAIT J, TALLENT S, MELKA D, et al. Prevalence of enterotoxins and
+toxin gene profiles of Staphylococcus aureus isolates recovered from a
+ 
+
+bakery involved in a second staphylococcal food poisoning occurrence [J]. J Appl Microbiol, 2014, 117(3): 866‒875.
+[19]   郦娟,  董华夏,  曾慧君,  等.  食品中金黄色葡萄球菌肠毒素分子检测方
+法研究进展[J].  化工管理, 2018, (33): 130.
+LI  J,  DONG  XH,  ZENG  HJ,  et  al.  Research  progress  on  molecular detection methods of Staphylococcus aureus enterotoxin in food [J]. Chem Manag, 2018, (33): 130.
+[20]   杜玄,  赵燕英,  刘骥,  等.  金黄色葡萄球菌肠毒素 P 双抗夹心酶联免疫
+检测方法的建立[J].  现代食品科技, 2018, 34(4): 264‒269.
+DU  X,  ZHAO  YY,  LIU  J,  et  al.  Development  of a  double-antibody sandwich   enzyme   linked   immunosorbent   assay   for   detection   of staphylococcal  enterotoxin  P  [J]. Mod Food  Sci  Technol, 2018,  34(4):
+264‒269.
+[21]   刘卫华,  沙芳芳,  李润磊,  等.  直接竞争 ELISA  法检测动物源食品中
+利巴韦林残留[J].  食品工业科技, 2019, 40(9): 242‒247, 252.
+LIU  WH,  SHA  FF,  LI  RL,  et  al.  Detection  of ribavirin  residues  in animal-derived food by way of direct competitive ELISA [J]. Food Ind Technol, 2019, 40(9): 242‒247, 252.
+[22]   王小红,  徐康,  王莹,  等.  金黄色葡萄球菌B 型肠毒素间接竞争 ELISA
+检测方法的建立[J].  食品科学, 2006, 27(8): 227‒231.
+WANG  XH,  XU  K,  WANG  Y,  et  al.  An  indirect  competitive  ELISA method for quantitative analysis of staphylococcal enterotoxin B [J]. Food
+Sci, 2006, 27(8): 227‒231.
+[23]   王琼,  唐俊妮,  汤承,  等.  金黄色葡萄球菌新型肠毒素 sek 基因在 3 株
+食品分离菌株中的表达[J].  食品科学, 2016, 37(13): 140‒ 146.
+WANG   Q,   TANG   JN,   TANG   C,   et   al.   Temporal   expression   of staphylococcal  enterotoxin  k  (sek)  gene  in  three  isolates  from  food samples [J]. Food Sci, 2016, 37(13): 140‒ 146.
+[24]   朱安妮,  唐俊妮,  赵燕英,  等.  金黄色葡萄球菌新型肠毒素 I 双抗夹心-
+酶联免疫检测方法的建立[J].  食品科学, 2016, 37(16): 193‒ 198.
+ZHU   ANN,   TANG   JN,   ZHAO   YY,   et   al.   Development   of   a double-antibody   sandwich   enzyme   linked   immunosorbent   assay   for detection of staphylococcal enterotoxin I (SEI) [J]. Food Sci, 2016, 37(16):
+193‒ 198.
+[25]   吕娜,  殷晓平,  张虹茜,  等.  柱状黄杆菌双抗体夹心 ELISA  检测方法
+的建立[J].  中国畜牧兽医, 2014, 41(3): 19‒23.
+LV N, YIN XP, ZHANG HQ, et al. Establishment of double-antibody sandwich ELISA method for detection of flavobacterium columnar  [J]. Chin Anim Husb Vet Med, 2014, 41(3): 19‒23.
+
+
+作者简介
+ 	(责任编辑: 于梦娇 张晓寒)
+
+
+
+崔梦含,  硕士研究生,  主要研究方向 为食品加工与安全。
+E-mail: 1244814351@qq .com
+
+
+唐俊妮,  博士,  教授,  主要研究方向为 食品安全与食品微生物。
+E-mail: junneytang@aliyun.com
+
+ 
+
+
+
+
+ 
